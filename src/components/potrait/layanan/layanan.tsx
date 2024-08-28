@@ -24,6 +24,7 @@ export default function PotretLayanan() {
         </div>
 
         <div className="grid grid-cols-2 place-items-center gap-5 mt-8">
+          {/* <CardLayanan />
           <CardLayanan />
           <CardLayanan />
           <CardLayanan />
@@ -34,8 +35,7 @@ export default function PotretLayanan() {
           <CardLayanan />
           <CardLayanan />
           <CardLayanan />
-          <CardLayanan />
-          <CardLayanan />
+          <CardLayanan /> */}
         </div>
 
         <div className="flex flex-row w-full justify-between items-start mt-14">

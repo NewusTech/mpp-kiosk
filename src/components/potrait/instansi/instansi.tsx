@@ -23,6 +23,7 @@ export default function PotretInstansi() {
         </div>
 
         <div className="grid grid-cols-3 place-items-center gap-5 mt-8">
+          {/* <CardInstansi />
           <CardInstansi />
           <CardInstansi />
           <CardInstansi />
@@ -33,8 +34,7 @@ export default function PotretInstansi() {
           <CardInstansi />
           <CardInstansi />
           <CardInstansi />
-          <CardInstansi />
-          <CardInstansi />
+          <CardInstansi /> */}
         </div>
 
         <div className="flex flex-row w-full justify-between items-start mt-14">
